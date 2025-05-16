@@ -6,3 +6,4 @@
 
 ### IT44 : Numerical analysis
 
+![IT44 practical sessions](./img/it44_ps.jpg)
